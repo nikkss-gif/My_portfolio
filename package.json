@@ -1,0 +1,16 @@
+{
+  "name": "nikhil-vyas-portfolio",
+  "version": "1.0.0",
+  "description": "Nikhil Vyas DevOps Engineer Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server . -p 3000 -o",
+    "start": "http-server . -p 3000"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "keywords": ["portfolio", "devops", "static-site"],
+  "author": "Nikhil Vyas",
+  "license": "MIT"
+}
